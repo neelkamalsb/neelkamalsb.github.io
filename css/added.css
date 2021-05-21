@@ -1,0 +1,44 @@
+.fa:hover{
+transform:scale(1.5);
+transition: 0.5s ease-out;
+}
+
+/*button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+         border:none;
+     border:solid 1px white;
+     border-radius: 10px;
+     --color: #ffa260;
+    --hover: #e5ff60;
+
+}*/
+/*button:hover {
+     background:yellow;
+     color:white; 
+}
+.raise {
+    
+}*/
+.raise {
+  background: #fff; /* fallback color for old browsers */background: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease-out;
+  border:none;
+  border-radius: 100px;
+}
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em;
+  transform: translateY(-0.25em);
+}
+/*.raise:hover, 
+.raise:focus {
+  animation: pulse 1s;
+  box-shadow: 0 0 0 2em rgba(#fff,0);
+}
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 var(--hover); }
+}*/

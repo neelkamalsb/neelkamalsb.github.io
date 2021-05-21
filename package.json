@@ -1,0 +1,23 @@
+{
+  "name": "neelkamalsb.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelkamalsb/neelkamalsb.github.io.git"
+  },
+  "author": "Neelkamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelkamalsb/neelkamalsb.github.io/issues"
+  },
+  "homepage": "https://github.com/neelkamalsb/neelkamalsb.github.io#readme",
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}
